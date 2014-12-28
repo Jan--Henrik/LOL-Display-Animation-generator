@@ -4,7 +4,7 @@
 | of frames at "frame_max"                            |
 \*----------------------------------------------------*/
 
-int frame_max = 102; // calculate +2
+int frame_max = 66; // calculate +2
 
 //------------------------------------
 PrintWriter output; // Splitting a String based on a multiple delimiters
